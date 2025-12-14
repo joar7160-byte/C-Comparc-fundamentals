@@ -31,6 +31,7 @@ This repo documents basic C concepts and small practice programs while building 
     - total cost
     - currency symbol
   - Simple, quick, and functional — practice-focused
+[View source: ShoppingCart.c](projects/ShoppingCart.c)
 
 ---
 
