@@ -20,6 +20,9 @@ This repo documents basic C concepts and small practice programs while building 
 - Format specifiers (width, precision, flags)
 - Arithmetic operators
 
+-  [day1-3.c](Projects/day1-3.c)
+
+
 ### Day 4
 - **Shopping Cart Program**
   - Built a simple interactive C program using concepts learned so far
