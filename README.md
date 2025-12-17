@@ -40,5 +40,12 @@ This repo documents basic C concepts and small practice programs while building 
   - Generates dynamic story output using formatted `printf`
   - Focused on reinforcing C I/O, strings, and program structure
   - [MadLibsGame.c](Projects/madllibgsgame.c)
+- **Math Functions Practice**
+  - Practiced common C math library functions using `<math.h>`
+  - Used functions such as `sqrt`, `pow`, `round`, `ceil`, `floor`, `abs`, `log`, `sin`, `cos`, and `tan`
+  - Explored type behavior between integers and floating-point values
+  - Reinforced understanding of standard libraries and numerical operations
+  - [View source: mathfunctions.c](Projects/mathfunctions.c)
+
 ---
 
