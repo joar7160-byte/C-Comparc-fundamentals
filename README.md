@@ -30,8 +30,7 @@ This repo documents basic C concepts and small practice programs while building 
   - Calculates and prints:
     - total cost
     - currency symbol
-  - Simple, quick, and functional — practice-focused
-- [View source: ShoppingCart.c](Projects/ShoppingCart.c)
+  -  [ShoppingCart.c](Projects/ShoppingCart.c)
 
 ### Day 5
 - **Mad Libs Game**
@@ -40,6 +39,6 @@ This repo documents basic C concepts and small practice programs while building 
   - Practices basic string manipulation (newline handling with `strlen`)
   - Generates dynamic story output using formatted `printf`
   - Focused on reinforcing C I/O, strings, and program structure
-  - [View source: MadLibsGame.c](Projects/madllibgsgame.c)
+  - [MadLibsGame.c](Projects/madllibgsgame.c)
 ---
 
