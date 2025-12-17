@@ -13,8 +13,8 @@ int main(){
     //First C program yerrr
     
     //Ints
-    int age = 20;
-    int year = 2005;
+    int age = 40;
+    int year = 2000;
     int quantity = 1;
 
     printf("You are %d years old\n", age);
@@ -77,7 +77,7 @@ int main(){
     }
 
     if(isStudent){
-        printf("You are StUDENT");
+        printf("You are STUDENT");
     }
     else{
         printf("you are not a STUDENT");
@@ -88,7 +88,7 @@ int main(){
         printf("Item is for sale");
     }
     else{
-        printf("GTFO MY STORE");
+        printf("GET OUT MY STORE");
     }
 
 
@@ -176,5 +176,6 @@ int main(){
     return 0;
 
     
+
 
 }
