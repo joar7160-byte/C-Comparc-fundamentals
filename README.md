@@ -33,5 +33,13 @@ This repo documents basic C concepts and small practice programs while building 
   - Simple, quick, and functional — practice-focused
 - [View source: ShoppingCart.c](Projects/ShoppingCart.c)
 
+### Day 5
+- **Mad Libs Game**
+  - Built a simple interactive Mad Libs–style game in C
+  - Uses character arrays and `fgets()` for safe user input
+  - Practices basic string manipulation (newline handling with `strlen`)
+  - Generates dynamic story output using formatted `printf`
+  - Focused on reinforcing C I/O, strings, and program structure
+  - [View source: MadLibsGame.c](Projects/MadLibsGame.c)
 ---
 
