@@ -48,7 +48,7 @@ This repo documents basic C concepts and small practice programs while building 
   - Used functions such as `sqrt`, `pow`, `round`, `ceil`, `floor`, `abs`, `log`, `sin`, `cos`, and `tan`
   - Explored type behavior between integers and floating-point values
   - Reinforced understanding of standard libraries and numerical operations
-  - [View source: mathfunctions.c](Projects/mathfunctions.c)
+  - [mathfunctions.c](Projects/mathfunctions.c)
 
 ### **Day 6**
 
