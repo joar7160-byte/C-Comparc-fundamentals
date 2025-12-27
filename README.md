@@ -60,6 +60,8 @@ This repo documents basic C concepts and small practice programs while building 
     - area
   - Practiced using `float` variables and math formulas
   - Reinforced correct use of constants and arithmetic expressions
+  - [circleCalc.c](Projects/circleCalc.c)
+
 
 - **Interest Calculator**
   - Created a simple interest calculator in C
@@ -69,18 +71,22 @@ This repo documents basic C concepts and small practice programs while building 
     - time period
   - Calculated total interest using mathematical expressions
   - Strengthened understanding of floating-point math and input/output formatting
+  - [interestCalc.c](Projects/interestCalc.c)
 
 - **Weight Converter**
   - Built a unit conversion program using conditionals
   - Converted weight between different units (e.g., pounds ↔ kilograms)
   - Used `if` / `else if` / `else` statements for user choice handling
   - Practiced validating user input and branching program logic
+  - [weightConverter.c](Projects/weightConverter.c)
+
 
 - **If Statements Practice**
   - Practiced conditional logic using `if`, `else if`, and `else`
   - Learned how program flow changes based on conditions
   - Reinforced comparison operators and logical structure
   - Improved control over decision-making in C programs
+  - [ifStatements.c](Projects/ifStatements.c)
 
 
 
