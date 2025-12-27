@@ -50,5 +50,37 @@ This repo documents basic C concepts and small practice programs while building 
   - Reinforced understanding of standard libraries and numerical operations
   - [View source: mathfunctions.c](Projects/mathfunctions.c)
 
----
+### **Day 6**
+
+- **Circle Calculator**
+  - Built a C program to calculate circle properties using user input
+  - Took radius as input and computed:
+    - diameter
+    - circumference
+    - area
+  - Practiced using `float` variables and math formulas
+  - Reinforced correct use of constants and arithmetic expressions
+
+- **Interest Calculator**
+  - Created a simple interest calculator in C
+  - Took user input for:
+    - principal amount
+    - interest rate
+    - time period
+  - Calculated total interest using mathematical expressions
+  - Strengthened understanding of floating-point math and input/output formatting
+
+- **Weight Converter**
+  - Built a unit conversion program using conditionals
+  - Converted weight between different units (e.g., pounds ↔ kilograms)
+  - Used `if` / `else if` / `else` statements for user choice handling
+  - Practiced validating user input and branching program logic
+
+- **If Statements Practice**
+  - Practiced conditional logic using `if`, `else if`, and `else`
+  - Learned how program flow changes based on conditions
+  - Reinforced comparison operators and logical structure
+  - Improved control over decision-making in C programs
+
+
 
