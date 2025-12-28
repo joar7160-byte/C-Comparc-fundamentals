@@ -62,7 +62,6 @@ This repo documents basic C concepts and small practice programs while building 
   - Reinforced correct use of constants and arithmetic expressions
   - [circleCalc.c](Projects/circleCalc.c)
 
-
 - **Interest Calculator**
   - Created a simple interest calculator in C
   - Took user input for:
@@ -80,6 +79,12 @@ This repo documents basic C concepts and small practice programs while building 
   - Practiced validating user input and branching program logic
   - [weightConverter.c](Projects/weightConverter.c)
 
+- **Temperature Converter**
+  - Built a temperature conversion program in C
+  - Converted values between Celsius and Fahrenheit
+  - Used conditional logic to determine conversion direction
+  - Reinforced formula-based calculations and user input handling
+  - [tempCalc.c](Projects/tempcalc.c)
 
 - **If Statements Practice**
   - Practiced conditional logic using `if`, `else if`, and `else`
@@ -87,6 +92,7 @@ This repo documents basic C concepts and small practice programs while building 
   - Reinforced comparison operators and logical structure
   - Improved control over decision-making in C programs
   - [ifStatements.c](Projects/ifStatements.c)
+
 
 
 ### **Day 7**
@@ -103,6 +109,18 @@ This repo documents basic C concepts and small practice programs while building 
   - Improved understanding of boolean logic and decision-making in programs
   - [logicalOperators.c](Projects/logicOps.c)
 
+- **Nested If Statements**
+  - Practiced using `if` statements inside other `if` blocks
+  - Learned how complex decision trees are structured in C
+  - Improved understanding of execution flow and condition hierarchy
+  - [nestedIf.c](Projects/nestedif.c)
+
+- **Switch Statements**
+  - Learned how to use `switch` statements as an alternative to chained `if-else`
+  - Practiced using `case`, `break`, and `default`
+  - Improved readability and structure for menu-based logic
+  - [switchStatements.c](Projects/switch.c)
+
 - **Functions & Return Statements**
   - Learned how to define and call functions in C
   - Used return values to pass results back to `main`
@@ -114,4 +132,5 @@ This repo documents basic C concepts and small practice programs while building 
   - Learned how scope affects variable accessibility and lifetime
   - Practiced writing cleaner, safer code by limiting scope appropriately
   - [variableScope.c](Projects/VarScope.c)
+
 
