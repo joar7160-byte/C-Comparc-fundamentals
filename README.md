@@ -89,4 +89,29 @@ This repo documents basic C concepts and small practice programs while building 
   - [ifStatements.c](Projects/ifStatements.c)
 
 
+### **Day 7**
+
+- **Calculator Program**
+  - Built a basic calculator in C supporting multiple arithmetic operations
+  - Used user input to select operations and operands
+  - Reinforced control flow, arithmetic operators, and clean input/output handling
+  - [calculator.c](Projects/calc.c)
+
+- **Logical Operators Practice**
+  - Practiced using logical operators: `&&`, `||`, and `!`
+  - Combined multiple conditions inside `if` statements
+  - Improved understanding of boolean logic and decision-making in programs
+  - [logicalOperators.c](Projects/logicOps.c)
+
+- **Functions & Return Statements**
+  - Learned how to define and call functions in C
+  - Used return values to pass results back to `main`
+  - Improved program organization and code reusability
+  - [functionsReturn.c](Projects/return.c)
+
+- **Variable Scope**
+  - Explored local vs global variables
+  - Learned how scope affects variable accessibility and lifetime
+  - Practiced writing cleaner, safer code by limiting scope appropriately
+  - [variableScope.c](Projects/VarScope.c)
 
